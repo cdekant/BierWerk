@@ -18,5 +18,5 @@ Die Erzeugung einer Druckdatei im PDF-Format, die sich im Übrigen auch am Compu
 
 ## Organisation
 
-Im Ordner Texte finden sich - naheliegender Weise - die Markdown-Dateien.
+Im Ordner Text finden sich - naheliegender Weise - die Markdown-Dateien.
 Organisiert sind die Dateien nach Kapiteln in entsprechend benannten Unterordnern.

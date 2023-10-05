@@ -103,6 +103,7 @@ a. Namensnennung
       C.  angeben, dass das lizenzierte Material unter der vorliegenden Public License steht, und deren Text oder URI oder einen Hyperlink darauf beifügen.
    2. Sie dürfen die Bedingungen des Abschnitts 3(a)(1) in jeder angemessenen Form erfüllen, je nach Medium, Mittel und Kontext in bzw. mit dem Sie das lizenzierte Material weitergeben. Es kann zum Beispiel angemessen sein, die Bedingungen durch Angabe eines URI oder Hyperlinks auf eine Quelle zu erfüllen, die die erforderlichen Informationen enthält.
    3. Falls der Lizenzgeber es verlangt, müssen Sie die gemäß Abschnitt 3(a)(1)(A) erforderlichen Informationen entfernen, soweit dies vernünftigerweise praktikabel ist.
+
 b. Share Alike
 
 Zusätzlich zu den Bedingungen in Abschnitt 3(a) gelten die folgenden Bedingungen, falls Sie abgewandeltes Material weitergeben, welches Sie selbst erstellt haben.
@@ -111,48 +112,60 @@ Zusätzlich zu den Bedingungen in Abschnitt 3(a) gelten die folgenden Bedingunge
    2. Sie müssen den Text oder einen URI oder Hyperlink auf die von Ihnen gewählte Abwandlungslizenz beifügen. Diese Bedingung dürfen Sie in jeder angemessenen Form erfüllen, je nach Medium, Mittel und Kontext in bzw. mit dem Sie abgewandeltes Material weitergeben.
    3. Sie dürfen keine zusätzlichen oder abweichenden Bedingungen anbieten oder das abgewandelte Material mit solchen belegen oder darauf wirksame technische Maßnahmen anwenden, sofern dadurch die Ausübung der Rechte am abgewandelten Material eingeschränkt wird, die Sie unter der Abwandlungslizenz gewähren.
 
-#### Abschnitt 4 – Sui\hyph generis\hyph Datenbankrechte {.unnumbered}
+#### Abschnitt 4 – Sui-generis-Datenbankrechte {.unnumbered}
 
 Soweit die lizenzierten Rechte Sui-generis-Datenbankrechte beinhalten, die auf Ihre Nutzung des lizenzierten Materials Anwendung finden, gilt:
 
 a. es sei klargestellt, dass Abschnitt 2(a)(1) Ihnen das Recht gewährt, die gesamten Inhalte der Datenbank oder wesentliche Teile davon zu entnehmen, weiterzuverwenden, zu vervielfältigen und weiterzugeben;
+
 b. sofern Sie alle Inhalte der Datenbank oder wesentliche Teile davon in eine Datenbank aufnehmen, an der Sie Sui-generis-Datenbankrechte haben, dann gilt die Datenbank, an der Sie Sui-generis-Datenbankrechte haben (aber nicht ihre einzelnen Inhalte) als abgewandeltes Material, insbesondere in Bezug auf Abschnitt 3(b); und
+
 c. Sie müssen die Bedingungen des Abschnitts 3(a) einhalten, wenn sie alle Datenbankinhalte oder wesentliche Teile davon weitergeben.
 
 Es sei ferner klargestellt, dass dieser Abschnitt 4 Ihre Verpflichtungen aus der vorliegenden Public License nur ergänzt und nicht ersetzt, soweit die lizenzierten Rechte andere Urheberrechte oder ähnliche Rechte enthalten.
 
-#### Abschnitt 5 – Gewährleistungsausschluss und Haftungsbeschränkung {.unnumbered}
+#### Abschnitt 5 – Gewährleistungsausschluss und Haftungsbeschränkung {.unnumbered}zo
 
 a. **Sofern der Lizenzgeber nicht separat anderes erklärt und so weit wie möglich, bietet der Lizenzgeber das lizenzierte Material so wie es ist und verfügbar ist an und sagt in Bezug auf das lizenzierte Material keine bestimmten Eigenschaften zu, weder ausdrücklich noch konkludent oder anderweitig, und schließt jegliche Gewährleistung aus, einschließlich der gesetzlichen. Dies umfasst insbesondere das Freisein von Rechtsmängeln, Verkehrsfähigkeit, Eignung für einen bestimmten Zweck, Wahrung der Rechte Dritter, Freisein von (auch verdeckten) Sachmängeln, Richtigkeit und das Vorliegen oder Nichtvorliegen von Irrtümern, gleichviel ob sie bekannt, unbekannt oder erkennbar sind. Dort, wo Gewährleistungsausschlüsse ganz oder teilweise unzulässig sind, gilt der vorliegende Ausschluss möglicherweise für Sie nicht.**
+
 b. **Soweit wie möglich, haftet der Lizenzgeber Ihnen gegenüber nach keinem rechtlichen Konstrukt (einschließlich insbesondere Fahrlässigkeit) oder anderweitig für irgendwelche direkten, speziellen, indirekten, zufälligen, Folge-, Straf- exemplarischen oder anderen Verluste, Kosten, Aufwendungen oder Schäden, die sich aus der vorliegenden Public License oder der Nutzung des lizenzierten Materials ergeben, selbst wenn der Lizenzgeber auf die Möglichkeit solcher Verluste, Kosten, Aufwendungen oder Schäden hingewiesen wurde. Dort, wo Haftungsbeschränkungen ganz oder teilweise unzulässig sind, gilt die vorliegende Beschränkung möglicherweise für Sie nicht.**
+
 c. Der Gewährleistungsausschluss und die Haftungsbeschränkung oben sollen so ausgelegt werden, dass sie soweit wie möglich einem absoluten Haftungs- und Gewährleistungsausschluss nahe kommen.
 
-#### Abschnitt 6 – Laufzeit und Beendigung {.unnumbered}
+#### Abschnitt 6 – Laufzeit und Beendigung {.unnumbered}zo
 
 a. Die vorliegende Public License gilt bis zum Ablauf der Schutzfrist des Urheberrechts und der ähnlichen Rechte, die hiermit lizenziert werden. Gleichwohl erlöschen Ihre Rechte aus dieser Public License automatisch, wenn Sie die Bestimmungen dieser Public License nicht einhalten.
+
 b. Soweit Ihr Recht, das lizenzierte Material zu nutzen, gemäß Abschnitt 6(a) erloschen ist, lebt es wieder auf:
    1. automatisch zu dem Zeitpunkt, an welchem die Verletzung abgestellt ist, sofern dies innerhalb von 30 Tagen seit Ihrer Kenntnis der Verletzung geschieht; oder
    2. durch ausdrückliche Wiedereinsetzung durch den Lizenzgeber.
 
     Es sei klargestellt, dass dieser Abschnitt 6(b) die Rechte des Lizenzgebers, Ausgleich für Ihre Verletzung der vorliegenden Public License zu verlangen, nicht einschränkt.
+
 c. Es sei klargestellt, dass der Lizenzgeber das lizenzierte Material auch unter anderen Bedingungen anbieten oder den Vertrieb des lizenzierten Materials jederzeit einstellen darf; gleichwohl erlischt dadurch die vorliegende Public License nicht.
+
 d. Die Abschnitte 1, 5, 6, 7 und 8 gelten auch nach Erlöschen der vorliegenden Public License fort.
 
-#### Abschnitt 7 – Sonstige Bedingungen {.unnumbered}
+#### Abschnitt 7 – Sonstige Bedingungen {.zounnumbered}
 
 a. Der Lizenzgeber ist nicht an durch Sie gestellte zusätzliche oder abweichende Bedingungen gebunden, wenn diese nicht ausdrücklich vereinbart wurden.
+
 b. Jedwede das lizenzierte Material betreffenden und hier nicht genannten Umstände, Annahmen oder Vereinbarungen sind getrennt und unabhängig von den Bedingungen der vorliegenden Public License.
 
-#### Abschnitt 8 – Auslegung {.unnumbered}
+#### Abschnitt 8 – Auslegung {.unnumbered}zo
 
 a. Es sei klargestellt, dass die vorliegende Public License weder besagen noch dahingehend ausgelegt werden soll, dass sie solche Nutzungen des lizenzierten Materials verringert, begrenzt, einschränkt oder mit Bedingungen belegt, die ohne eine Erlaubnis aus dieser Public License zulässig sind.
+
 b. Soweit wie möglich soll, falls eine Klausel der vorliegenden Public License als nicht durchsetzbar anzusehen ist, diese Klausel automatisch im geringst erforderlichen Maße angepasst werden, um sie durchsetzbar zu machen. Falls die Klausel nicht anpassbar ist, soll sie von der vorliegenden Public License abgeschieden werden, ohne dass die Durchsetzbarkeit der verbleibenden Bedingungen tangiert wird.
+
 c. Auf keine Bedingung der vorliegenden Public License wird verzichtet und kein Verstoß dagegen soll als hingenommen gelten, außer der Lizenzgeber hat sich damit ausdrücklich einverstanden erklärt.
+
 d. Nichts in der vorliegenden Public License soll zu einer Beschränkung oder Aufhebung von Privilegien und Immunitäten führen, die dem Lizenzgeber oder Ihnen insbesondere aufgrund rechtlicher Regelungen irgendeiner Rechtsordnung oder Rechtsposition zustehen, oder dahingehend interpretiert werden.
 
 Creative Commons ist keine Vertragspartei seiner Public Licenses. Dennoch kann Creative Commons sich dazu entscheiden, eine seiner Public Licenses für selbst publiziertes Material zu verwenden, und ist in diesen Fällen als „Lizenzgeber” zu betrachten. Der Text der Creative Commons Public Licenses selbst wird mittels der CC0 Verzichtserklärung der Gemeinfreiheit überantwortet. Abgesehen vom begrenzten Zweck, darauf hinzuweisen, dass Material unter einer Creative Commons Public License freigegeben ist, und falls es nicht anderweitig erlaubt wird durch die Creative-Commons-Policies, die unter creativecommons.org/policies veröffentlicht sind, erlaubt Creative Commons es nicht, dass die Marke “Creative Commons” oder eine andere Marke oder ein anderes Logo von Creative Commons ohne vorherige schriftliche Zustimmung genutzt werden, insbesondere in Verbindung mit nicht autorisierten Veränderungen seiner Public Licenses oder sonstigen Regelungen, Übereinkünften oder Vereinbarungen in Bezug auf die Nutzung lizenzierten Materials. Es sei klargestellt, dass dieser Absatz nicht Teil der Public Licenses ist.
 
 Creative Commons kann kontaktiert werden unter [https://creativecommons.org](https://creativecommons.org).
 
+<!-- Wie oben bei \tiny hier ein LaTeX-Befehl, der die Schriftgröße wieder auf normale Größe umschaltet, wird leider in manchen Formaten ignoriert, bzw. falsch dargestellt. -->
 \normalsize
 

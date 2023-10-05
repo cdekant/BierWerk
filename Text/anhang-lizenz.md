@@ -4,7 +4,7 @@
 &copy; 2022- Christian Dekant <cdekant@googlemail.com>
 
 Der Inhalt (=Text) des Lehrbuchs ist, **falls nicht explizit an der jeweiligen Stelle anders 
-angegeben**, unter der Creative Commons Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)) freigegeben.
+angegeben**, unter der Creative Commons Lizenz "Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International" ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)) freigegeben.
 
 Insbesondere die Lizenz von Bildern in "Bierwerk --- Brautechnologie und Brauereitechnik" weicht oftmals von dieser Lizenzfreigabe ab.
 Die unter Umständen abweichend geltenden Lizenzen sind jeweils direkt in 

@@ -14,7 +14,7 @@ BierWerk ist in verschiedenen Formaten erhältlich, die zentralen Zielformate si
 
 Die Zielformate werden aus Textdateien im Markdown-Format und natürlich separat gespeicherten Bildern erzeugt.
 Das Kommandozeilenprogramm [pandoc](https://pandoc.org/) übernimmt dabei die Umwandlung direkt in die Formate HTML5 und EPUB3.
-Die Erzeugung einer Druckdatei im PDF-Format, die sich im Übrigen auch am Computerbildschirm gut verwenden lässt, geschieht mittelbar durch das altehrwürdige automatisch Textsatzsystem [LaTeX](https://www.latex-project.org/).
+Die Erzeugung einer Druckdatei im PDF-Format, die sich im Übrigen auch am Computerbildschirm gut verwenden lässt, geschieht mittelbar durch das altehrwürdige automatische Textsatzsystem [LaTeX](https://www.latex-project.org/).
 
 ## Organisation
 

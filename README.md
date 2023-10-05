@@ -5,6 +5,14 @@ Bei *BierWerk*, *BRAUWELT*, *TrinkWerk* - wie auch immer der endgültige Name la
 Es steht unter der Creative Commons Lizenz [Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 Zur Mitarbeit wird herzlich eingeladen, Interessierte wenden sich an redaktion[@]bierwerk.de.
 
+## Download
+
+BierWerk kann heruntergeladen werden:
+* [http:www.dekant.name/BierWerk.pdf]
+* [http:www.dekant.name/BierWerk.epub]
+* [http:www.dekant.name/BierWerk.html]
+* [http:www.dekant.name/BierWerk.md]
+
 ## Technik
 
 BierWerk ist in verschiedenen Formaten erhältlich, die zentralen Zielformate sind aber:

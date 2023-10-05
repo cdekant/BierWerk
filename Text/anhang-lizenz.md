@@ -4,9 +4,7 @@
 &copy; 2022- Christian Dekant <cdekant@googlemail.com>
 
 Der Inhalt (=Text) des Lehrbuchs ist, **falls nicht explizit an der jeweiligen Stelle anders 
-angegeben** unter der Attribution-ShareAlike 4.0 International 
-([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de))
-der Creative Commons freigegeben.
+angegeben**, unter der Creative Commons Lizenz ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)) freigegeben.
 
 Insbesondere die Lizenz von Bildern in "Bierwerk --- Brautechnologie und Brauereitechnik" weicht oftmals von dieser Lizenzfreigabe ab.
 Die unter Umständen abweichend geltenden Lizenzen sind jeweils direkt in 
@@ -47,6 +45,7 @@ Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrec
 
 ### Lizenztext CC BY-SA 4.0 
 
+<!-- Bei \tiny handelt es sich um ein Kommando für LaTeX, also die Umwandlung in eine PDF-Druckdatei. Leider in manchen Formaten als Text dargestellt -->
 \tiny
 
 Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie sich rechtsverbindlich mit den Bedingungen dieser Creative Commons Namensnennung – Share Alike 4.0 International Public License (“Public License”) einverstanden.
@@ -82,6 +81,7 @@ a. Lizenzgewährung
       B.  Zusätzliches Angebot des Lizenzgebers – Abgewandeltes Material. Jeder, der abgewandeltes Material von Ihnen erhält, erhält automatisch vom Lizenzgeber ein Angebot, die lizenzierten Rechte am abgewandelten Material unter den Bedingungen der durch Sie vergebenen Abwandlungslizenz auszuüben.
       C.  Keine Beschränkungen für nachfolgende Empfänger. Sie dürfen keine zusätzlichen oder abweichenden Bedingungen fordern oder das lizenzierte Material mit solchen belegen oder darauf wirksame technische Maßnahmen anwenden, sofern dadurch die Ausübung der lizenzierten Rechte durch Empfänger des lizenzierten Materials eingeschränkt wird.
    6. Inhaltliche Indifferenz. Die vorliegende Public License begründet nicht die Erlaubnis, zu behaupten oder den Eindruck zu erwecken, dass Sie oder Ihre Nutzung des lizenzierten Materials mit dem Lizenzgeber oder den Zuschreibungsempfängern gemäß Abschnitt 3(a)(1)(A)(i) in Verbindung stehen oder durch ihn gefördert, gutgeheißen oder offiziell anerkannt werden.
+
 b. Sonstige Rechte
    1. Urheberpersönlichkeitsrechte, wie etwa zum Schutz vor Werkentstellungen, werden durch die vorliegende Public License ebenso wenig mitlizenziert wie das Recht auf Privatheit, auf Datenschutz und/oder ähnliche Persönlichkeitsrechte; gleichwohl verzichtet der Lizenzgeber auf derlei Rechte bzw. ihre Durchsetzung, soweit dies für Ihre Ausübung der lizenzierten Rechte erforderlich und möglich ist, jedoch nicht darüber hinaus.
    2. Patent- und Kennzeichenrechte werden durch die vorliegende Public License nicht lizenziert.

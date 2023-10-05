@@ -152,7 +152,7 @@ b. Soweit Ihr Recht, das lizenzierte Material zu nutzen, gemäß Abschnitt 6(a) 
    1. automatisch zu dem Zeitpunkt, an welchem die Verletzung abgestellt ist, sofern dies innerhalb von 30 Tagen seit Ihrer Kenntnis der Verletzung geschieht; oder
    2. durch ausdrückliche Wiedereinsetzung durch den Lizenzgeber.
 
-    Es sei klargestellt, dass dieser Abschnitt 6(b) die Rechte des Lizenzgebers, Ausgleich für Ihre Verletzung der vorliegenden Public License zu verlangen, nicht einschränkt.
+Es sei klargestellt, dass dieser Abschnitt 6(b) die Rechte des Lizenzgebers, Ausgleich für Ihre Verletzung der vorliegenden Public License zu verlangen, nicht einschränkt.
 
 c. Es sei klargestellt, dass der Lizenzgeber das lizenzierte Material auch unter anderen Bedingungen anbieten oder den Vertrieb des lizenzierten Materials jederzeit einstellen darf; gleichwohl erlischt dadurch die vorliegende Public License nicht.
 

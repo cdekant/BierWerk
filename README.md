@@ -11,3 +11,7 @@ BierWerk ist in verschiedenen Formaten erhältlich, die zentralen Zielformate si
 * PDF-Dokument in 150 dpi Auflösung (eine selbstauferlegte Begrenzung auf 150 dpi soll der praktischen Begrenzung der Größe des Projekts und der Druckdatei selbst dienen);
 * EPUB3 als E-Buch-Format, das von sehr vielen E-Readern unterstützt wird;
 * HTML5 zur Anzeige in Browsern.
+
+Die Zielformate werden aus Textdateien im Markdown-Format und natürlich separat gespeicherten Bildern erzeugt.
+Das Kommandozeilenprogramm [pandoc](https://pandoc.org/) übernimmt dabei die Umwandlung direkt in die Formate HTML5 und EPUB3.
+Die Erzeugung einer Druckdatei im PDF-Format, die sich im Übrigen auch am Computerbildschirm gut verwenden lässt, geschieht mittelbar durch das altehrwürdige automatisch Textsatzsystem [LaTeX](https://www.latex-project.org/).

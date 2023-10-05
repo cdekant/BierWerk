@@ -8,10 +8,10 @@ Zur Mitarbeit wird herzlich eingeladen, Interessierte wenden sich an redaktion[@
 ## Download
 
 BierWerk kann heruntergeladen werden:
-* http://www.dekant.name/BierWerk.pdf
-* http://www.dekant.name/BierWerk.epub
-* http://www.dekant.name/BierWerk.html
-* http://www.dekant.name/BierWerk.md
+• http://www.nordbahn-brauerei.de/BierWerk.md
+• http://www.nordbahn-brauerei.de/BierWerk.pdf
+• http://www.nordbahn-brauerei.de/BierWerk.html
+• http://www.nordbahn-brauerei.de/BierWerk.epub
 
 ## Technik
 

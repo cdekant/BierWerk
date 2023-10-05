@@ -54,17 +54,29 @@ Soweit die vorliegende Public License als Lizenzvertrag anzusehen ist, gewährt 
 #### Abschnitt 1 – Definitionen {.unnumbered}
 
 a. **Abgewandeltes Material** bezeichnet Material, welches durch Urheberrechte oder ähnliche Rechte geschützt ist und vom lizenzierten Material abgeleitet ist oder darauf aufbaut und in welchem das lizenzierte Material übersetzt, verändert, umarrangiert, umgestaltet oder anderweitig modifiziert in einer Weise enthalten ist, die aufgrund des Urheberrechts oder ähnlicher Rechte des Lizenzgebers eine Zustimmung erfordert. Im Sinne der vorliegenden Public License entsteht immer abgewandeltes Material, wenn das lizenzierte Material ein Musikwerk, eine Darbietung oder eine Tonaufnahme ist und zur Vertonung von Bewegtbildern verwendet wird.
+
 b. **Abwandlungslizenz** bezeichnet die Lizenz, die Sie in Bezug auf Ihr Urheberrecht oder ähnliche Rechte an Ihren Beiträgen zum abgewandelten Material in Übereinstimmng mit den Bedingungen der vorliegenden Public License erteilen.
+
 c. **BY-SA-kompatible Lizenz** bezeichnet eine unter creativecommons.org/compatiblelicenses genannte Lizenz, die Creative Commons als der vorliegenden Public License im Wesentlichen gleichwertig anerkannt hat.
+
 d. **Urheberrecht und ähnliche Rechte** bezeichnet das Urheberrecht und/oder ähnliche, dem Urheberrecht eng verwandte Rechte, einschließlich insbesondere des Rechts des ausübenden Künstlers, des Rechts zur Sendung, zur Tonaufnahme und des Sui-generis-Datenbankrechts, unabhängig davon, wie diese Rechte genannt oder kategorisiert werden. Im Sinne der vorliegenden Public License werden die in Abschnitt 2(b)(1)-(2) aufgeführten Rechte nicht als Urheberrecht und ähnliche Rechte angesehen.
+
 e. **Wirksame technische Schutzmaßnahmen** bezeichnet solche Maßnahmen, die gemäß gesetzlichen Regelungen auf der Basis des Artikels 11 des WIPO Copyright Treaty vom 20. Dezember 1996 und/oder ähnlicher internationaler Vereinbarungen ohne entsprechende Erlaubnis nicht umgangen werden dürfen.
+
 f. **Ausnahmen und Beschränkungen** bezeichnet Fair Use, Fair Dealing und/oder jegliche andere Ausnahme oder Beschränkung des Urheberrechts oder ähnlicher Rechte, die auf Ihre Nutzung des lizenzierten Materials Anwendung findet.
+
 g. **Lizenzelemente** bezeichnet die Lizenzeigenschaften, die in der Bezeichnung einer Creative Commons Public License aufgeführt werden. Die Lizenzelemente der vorliegenden Public License sind Namensnennung und Share Alike.
+
 h. **Lizenziertes Material** bezeichnet das Werk der Literatur oder Kunst, die Datenbank oder das sonstige Material, welches der Lizenzgeber unter die vorliegende Public License gestellt hat.
+
 i. **Lizenzierte Rechte** bezeichnet die Ihnen unter den Bedingungen der vorliegenden Public License gewährten Rechte, welche auf solche Urheberrechte und ähnlichen Rechte beschränkt sind, die Ihre Nutzung des lizenzierten Materials betreffen und die der Lizenzgeber zu lizenzieren berechtigt ist.
+
 j. **Lizenzgeber** bezeichnet die natürliche(n) oder juristische(n) Person(en), die unter der vorliegenden Public License Rechte gewährt (oder gewähren).
+
 k. **Weitergabe** meint, Material der Öffentlichkeit bereitzustellen durch beliebige Mittel oder Verfahren, die gemäß der lizenzierten Rechte Zustimmung erfordern, wie zum Beispiel Vervielfältigung, öffentliche Vorführung, öffentliche Darbietung, Vertrieb, Verbreitung, Wiedergabe oder Übernahme und öffentliche Zugänglichmachung bzw. Verfügbarmachung in solcher Weise, dass Mitglieder der Öffentlichkeit auf das Material von Orten und zu Zeiten ihrer Wahl zugreifen können.
+
 l. **Sui-generis Datenbankrechte** bezeichnet Rechte, die keine Urheberrechte sind, sondern gegründet sind auf die Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen Schutz von Datenbanken in der jeweils gültigen Fassung bzw. deren Nachfolgeregelungen, sowie andere im Wesentlichen funktionsgleiche Rechte anderswo auf der Welt.
+
 m. **Sie** bezeichnet die natürliche oder juristische Person, die von lizenzierten Rechten unter der vorliegenden Public License Gebrauch macht. **Ihr** bzw. **Ihre** hat die entsprechende Bedeutung.
 
 #### Abschnitt 2 – Umfang {.unnumbered}

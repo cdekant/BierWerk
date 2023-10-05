@@ -1,6 +1,6 @@
 # BierWerk
 
-Bei *BierWerk*, *BRAUWELT*, *TrinkWerk* - wie auch immer der endgültige Name lauten mag - ist ein Glossar zu Brautechnologie und Brautechnik im Entstehen.
+Bei *BierWerk*, *BRAUWELT*, *TrinkWerk* - wie auch immer der endgültige Name lauten mag - ist ein Buch zu Brautechnologie und Brautechnik im Entstehen.
 
 Es steht unter der Creative Commons Lizenz [Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 Zur Mitarbeit wird herzlich eingeladen, Interessierte wenden sich an redaktion[@]bierwerk.de.
@@ -18,4 +18,5 @@ Die Erzeugung einer Druckdatei im PDF-Format, die sich im Übrigen auch am Compu
 
 ## Organisation
 
-
+Im Ordner Texte finden sich - naheliegender Weise - die Markdown-Dateien.
+Organisiert sind die Dateien nach Kapiteln in entsprechend benannten Unterordnern.

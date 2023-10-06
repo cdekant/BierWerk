@@ -5,3 +5,13 @@ number-sections: true
 top-level-division: part
 defaults:
 - etc/Einstellungen-Kapitel.yaml
+
+metadata:
+  title: "BierWerk"
+  author:
+    - "Ein Autor"
+    - "Noch ein Autor"
+  date: Oktober 2023
+  csquotes: true
+
+    #  crossrefYaml: etc/crossref.yaml

@@ -1,0 +1,3 @@
+from: markdown
+output-file: BierWerk.pdf
+defaults: etc/Einstellungen-Kapitel.yaml

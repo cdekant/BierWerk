@@ -12,7 +12,6 @@ der Bildunterschrift angegeben.
 
 ### Kurzfassung CC BY-SA 4.0 {#sec:anhang-lizenz-und-copyright-kurzfassung-cc-by-sa-4-0}
 
-
 Die folgende Zusammenfassung der Lizenz "Namensnennung --- Weitergabe unter gleichen Bedingungen 4.0 (CC BY-SA 4.0)" greift nur einige Schlüsselbegriffe und Bestimmungen der Lizenz auf.
 Es handelt sich nicht um die Lizenz selbst, der folgende Text hat keine juristische Relevanz.
 Bevor Sie das vorliegende Material benutzen sollten Sie sorgfältig die rechtlich geltenden Bestimmungen und den vollständigen Text der Lizenz unter [https://creativecommons.org/licenses/by-sa/4.0/legalcode.de](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de) studieren.
@@ -45,7 +44,6 @@ Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz v
 Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
 
 ### Lizenztext CC BY-SA 4.0 {#sec:anhang-lizenz-und-copyright-lizenztext-cc-by-sa-4-0}
-k
 
 <!-- Bei \tiny handelt es sich um ein Kommando für LaTeX, also die Umwandlung in eine PDF-Druckdatei. Leider in manchen Formaten als Text dargestellt -->
 \tiny

@@ -1,2 +1,2 @@
 #!/bin/bash
-pandoc --defaults=etc/Einstellungen-LaTeX.yaml -o BierWerk.pdf
+pandoc --defaults=etc/Einstellungen.yaml -o BierWerk.pdf

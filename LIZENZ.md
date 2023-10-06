@@ -10,7 +10,8 @@ Insbesondere die Lizenz von Bildern in "Bierwerk --- Brautechnologie und Brauere
 Die unter Umständen abweichend geltenden Lizenzen sind jeweils direkt in 
 der Bildunterschrift angegeben.
 
-### Kurzfassung CC BY-SA 4.0
+### Kurzfassung CC BY-SA 4.0 {#sec:anhang-lizenz-und-copyright-kurzfassung-cc-by-sa-4-0}
+
 
 Die folgende Zusammenfassung der Lizenz "Namensnennung --- Weitergabe unter gleichen Bedingungen 4.0 (CC BY-SA 4.0)" greift nur einige Schlüsselbegriffe und Bestimmungen der Lizenz auf.
 Es handelt sich nicht um die Lizenz selbst, der folgende Text hat keine juristische Relevanz.
@@ -43,7 +44,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen.
 Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
 
-### Lizenztext CC BY-SA 4.0 
+### Lizenztext CC BY-SA 4.0 {#sec:anhang-lizenz-und-copyright-lizenztext-cc-by-sa-4-0}
+k
 
 <!-- Bei \tiny handelt es sich um ein Kommando für LaTeX, also die Umwandlung in eine PDF-Druckdatei. Leider in manchen Formaten als Text dargestellt -->
 \tiny

@@ -1,0 +1,7 @@
+standalone: true
+from: markdown
+table-of-contents: true
+number-sections: true
+top-level-division: part
+defaults:
+- etc/Einstellungen-Kapitel.yaml

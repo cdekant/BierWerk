@@ -1,5 +1,5 @@
-standalone: true
 from: markdown
+standalone: true
 table-of-contents: true
 number-sections: true
 top-level-division: part

@@ -34,7 +34,14 @@ Interessierte Bier- und Brau-Nerds, die sich außerdem noch gut mit GitHub auske
 
 ### Organisation des Repositorys {#sec:anhang-readme-organisation-des-repositorys}
 
-Die Dateistruktur und jeweiligen Funktionen der Dateien im Repository kurz erklärt.
+Im Ordner [**Text**](https://github.com/cdekant/BierWerk/tree/main/Text/) sind naheliegender Weise alle Texte des Buches untergebracht.
+Um die Größe des Repositorys möglichst klein zu halten, ist in einer Text-Datei jeweils ein Abschnitt eines Kapitels untergebracht.
+Bei z.B. Korrektur eines einzelnen Rechtschreibfehlers würde so bei einer Änderung nicht immer gleich das ganze Kapitel geändert, sondern nur ein kleinerer Abschnitt.
+Entsprechend der hierarchischen Einteilung des Buches in verschiedene "Teile" (z.B. Malztechnologie oder Brautechnologie) und verschiedene "Kapitel" (z.B. im Buchteil Rohstoffe die Kapitel Wasser, Gerste, Hopfen, Malz), die wiederum verschiedene "Abschnitte" enthalten ist das Namensschema für Text-Dateien:
+
+* buchteil-buchkapitel-abschnitt.md;
+* geschichte-antike-roemisches-reich.md;
+* anhang-readme.md $\leftarrow$ README.md ist ein Sonderfall, zeigt aber, dass kurze Kapitel nicht unbedingt in verschiedene Teile aufgesplittet werden müssen.
 
 ### Ansprechpartner {#sec:anhang-readme-ansprechpartner}
 

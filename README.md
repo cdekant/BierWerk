@@ -16,7 +16,7 @@ BierWerk können Sie entweder auf [GitHub](https://github.com/) durchstöbern od
 
 ### Technik {#sec:anhang-readme-technik}
 
-BierWerk ist in verschiedenen Formaten erhältlich, die beiden zentralen Zielformate sind aber:
+BierWerk ist, [wie im Abschnitt Download gesehen](#sec:anhang-readme-download), in verschiedenen Formaten erhältlich, die beiden zentralen Zielformate sind aber:
 
 * Druckfähiges PDF-Dokument in 150 dpi Auflösung (Welche Auflösung erscheint sinnvoll? 300 dpi führt schnell zu Dateigrößen, die schwer handhabbar sind. Erzeugung verschieden hoher Auflösungen erfordert ein gewisses Mindestmaß an Programmierfähigkeiten.)
 * EPUB3 als ein E-Buch-Format, das von sehr vielen E-Readern unterstützt wird.

@@ -18,7 +18,7 @@ BierWerk können Sie entweder auf [GitHub](https://github.com/) durchstöbern od
 
 BierWerk ist, [wie im Abschnitt Download gesehen](#sec:anhang-readme-download), in verschiedenen Formaten erhältlich, die beiden zentralen Zielformate sind aber:
 
-* Druckfähiges PDF-Dokument in 150 dpi Auflösung (Welche Auflösung erscheint sinnvoll? 300 dpi führt schnell zu Dateigrößen, die schwer handhabbar sind. Erzeugung verschieden hoher Auflösungen erfordert ein gewisses Mindestmaß an Programmierfähigkeiten.)
+* Druckfähiges PDF-Dokument in 300 dpi Auflösung, wobei die Größe von Fotos möglichst klein gehalten werden sollte;
 * EPUB3 als ein E-Buch-Format, das von sehr vielen E-Readern unterstützt wird.
 
 Die Zielformate werden aus Textdateien im Markdown-Format und natürlich separat gespeicherten Bildern erzeugt.

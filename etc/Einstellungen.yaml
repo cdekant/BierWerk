@@ -1,3 +1,5 @@
+verbosity: INFO
+log-file: BierWerk.log.pandoc
 from: markdown
 standalone: true
 table-of-contents: true
@@ -7,11 +9,18 @@ defaults:
 - etc/Einstellungen-Kapitel.yaml
 
 metadata:
+  lang: de-DE
   title: "BierWerk"
   author:
     - "Ein Autor"
+    affiliation: "Universität von Irgendwo" # wird nicht verwendet
     - "Noch ein Autor"
+    affilitation: "Universität von Nirgendwo"
   date: Oktober 2023
+    #abstract: |
+    #Dies ist ein Buch über Brautechnologie und Brauereitechnik.
+    #Das Buch ist im Entstehen und steht unter der Creative Commons CC BY-SA 4.0 Lizenz.
+    # Mitarbeit ist herzlich willkommen!
   csquotes: true
 
     #  crossrefYaml: etc/crossref.yaml

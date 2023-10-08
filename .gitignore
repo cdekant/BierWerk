@@ -10,6 +10,7 @@ pandoc
 *.ind
 *.lof
 *.log
+*.log.pandoc
 *.lot
 *.pdf
 *.swp
